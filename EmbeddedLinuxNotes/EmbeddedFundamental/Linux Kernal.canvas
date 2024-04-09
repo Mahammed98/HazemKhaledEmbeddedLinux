@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"58ae4be433e87972","type":"group","x":-880,"y":-1020,"width":1020,"height":200,"label":"Kernal Space"},
+		{"id":"9d253cf40c7ca725","type":"text","text":"Memory Managment","x":-495,"y":-940,"width":250,"height":60},
+		{"id":"b83589c5851dff5d","type":"text","text":"Process","x":-820,"y":-940,"width":250,"height":60},
+		{"id":"50704c03d5942408","type":"text","text":"Process","x":-160,"y":-940,"width":250,"height":60}
+	],
+	"edges":[]
+}

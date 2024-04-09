@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"983227b6db59d151","type":"text","text":"# **glibc**\n\nit provides many system calls and higher-level functions that enable programs to interact with the operating system kernel and perform various tasks.\n","x":-748,"y":-854,"width":328,"height":294}
+	],
+	"edges":[]
+}

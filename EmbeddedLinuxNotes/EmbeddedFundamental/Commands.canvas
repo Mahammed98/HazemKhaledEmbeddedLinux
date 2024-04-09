@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"f6650fe027da3a68","type":"text","text":"# Commands\n\nit is an applications, which are allocated in /usr/bin, when command is executed on terminal, the system searches  for this command on system environments paths\n- you can use **echo $PATH**, to know all paths of system environments \ncommands are divided into four parts \n1- Command name \n2- Location\n3- Input\n4- Output","x":-319,"y":-365,"width":539,"height":385}
+	],
+	"edges":[]
+}

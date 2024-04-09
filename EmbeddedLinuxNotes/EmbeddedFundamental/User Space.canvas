@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"bb1a4cde753210c0","type":"text","text":"# User Space\n\nAt the top of the Linux System Architecture is the user interface. Linux offers various user interfaces, including the command-line interface (CLI) and graphical user interface (GUI). The CLI allows users to interact with the system using text-based commands, while the GUI provides a graphical representation of the system and enables users to perform actions using a mouse and keyboard. Both interfaces have their advantages and are commonly used depending on the user's preferences and requirements.\n\nExamples of application:  Terminal, Commands, FirFox , VsCode.... \n\n\n\n\n\n\n\n\n","x":-1140,"y":-960,"width":840,"height":560},
+		{"id":"1af69b61862e72d3","type":"file","file":"Commands.canvas","x":-830,"y":-640,"width":220,"height":180,"color":"1"}
+	],
+	"edges":[]
+}

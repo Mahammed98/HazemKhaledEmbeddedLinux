@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"114cc7077ca25a56","type":"group","x":-600,"y":-380,"width":1220,"height":1780,"label":"Operating system"},
+		{"id":"b9729cf2952946e9","type":"file","file":"glibc.canvas","x":-135,"y":200,"width":170,"height":140,"color":"5"},
+		{"id":"df92c6cf5c095de7","type":"file","file":"SysCall.canvas","x":-225,"y":480,"width":350,"height":240,"color":"3"},
+		{"id":"3a2e5a76711207e0","type":"file","file":"Device Driver.canvas","x":-225,"y":1340,"width":400,"height":400},
+		{"id":"de8db4ef740ffcd8","type":"file","file":"Linux Kernal.canvas","x":-380,"y":600,"width":720,"height":600,"color":"3"},
+		{"id":"5002d5407a019f8c","type":"file","file":"User Space.canvas","x":-280,"y":-340,"width":460,"height":460,"color":"2"},
+		{"id":"d3411806dd8f45e1","type":"text","text":"Hardware","x":-192,"y":1920,"width":335,"height":200}
+	],
+	"edges":[
+		{"id":"49b0007ea2a603d6","fromNode":"5002d5407a019f8c","fromSide":"bottom","toNode":"b9729cf2952946e9","toSide":"top","label":"Function Call"},
+		{"id":"1f122cddedd41990","fromNode":"b9729cf2952946e9","fromSide":"bottom","toNode":"df92c6cf5c095de7","toSide":"top","label":"Invoke Syscall"},
+		{"id":"f36033c6d110fc67","fromNode":"3a2e5a76711207e0","fromSide":"bottom","toNode":"d3411806dd8f45e1","toSide":"top"}
+	]
+}

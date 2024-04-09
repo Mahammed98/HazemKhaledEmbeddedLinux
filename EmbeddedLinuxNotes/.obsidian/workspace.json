@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "079bfa3d74698578",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f3d8839fbfa6e0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7cebe63648c1b44",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Embedded Fundamental/Linux Arch.canvas",
+                "viewState": {
+                  "x": 472.91696633054437,
+                  "y": 181.34505178356306,
+                  "zoom": -0.4201258143645028
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4926fea6150b7cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c64c809a9b67e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "164445cab93e3dd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ebcdbadeccfcecf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "033dbb3f4a2f3d06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61cae4b67cf281db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d85a18885c2eb486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633ef77b8b8c43b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Embedded Fundamental/Linux Arch.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f53cadb5a7b0d60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Embedded Fundamental/Linux Arch.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbc0420ad786ee28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "beb62ce66cf03c00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Embedded Fundamental/Linux Arch.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "164445cab93e3dd6",
+  "lastOpenFiles": [
+    "Embedded Fundamental/Linux Kernal.canvas",
+    "Embedded Fundamental/SysCall.canvas",
+    "Embedded Fundamental/User Space.canvas",
+    "Embedded Fundamental/Linux Arch.canvas",
+    "Session 1/User Space.canvas",
+    "Session 1",
+    "Embedded Fundamental/Commands.canvas",
+    "Embedded Fundamental/Device Driver.canvas",
+    "Embedded Fundamental/glibc.canvas",
+    "Embedded Fundamental",
+    "Welcome.md"
+  ]
+}
